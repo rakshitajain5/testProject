@@ -1,3 +1,3 @@
 # testProject
 
-This is out first demo as a github learner.
+This is our first demo as a github learner.

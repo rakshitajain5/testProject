@@ -8,6 +8,7 @@ public final class helloworld {
 		System.out.println("hello world");
 //		InetAddress ip = InetAddress.getLocalHost();
 //		System.out.println(ip.getHostName());
+		System.out.println("hi");
 		System.out.println(System.getProperty("name1"));
 	}
 }
